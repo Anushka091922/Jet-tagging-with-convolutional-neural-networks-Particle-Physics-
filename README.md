@@ -15,15 +15,22 @@ Traditional jet tagging approaches rely on hand-crafted features based on the pr
 
 ### References:
 ### Particle physics
-•	The Particle Data Group has a wonderfully concise review on machine learning. You can find it under Mathematical Tools > Machine Learning.
+•	The Particle Data Group [(https://pdg.lbl.gov/2021/reviews/contents_sports.html)] has a wonderfully concise review on machine learning. You can find it under Mathematical Tools > Machine Learning.
+
 •	Jet Substructure at the Large Hadron Collider by A. Larkowski et al (2017). Although ancient by deep learning standards (most papers are outdated the moment they land on the arXiv 🙃), this review covers all the concepts we’ll need when looking at jets and how to tag them with neural networks.
+
 •	HEPML-LivingReview. A remarkable project that catalogues loads of papers about machine learning and particles physics in a useful set of categories.
+
 •	Physics Meets ML. A regular online seminar series that brings together researchers from the machine learning and physics communities.
-•	Machine Learning and the Physical Sciences. A recent workshop at the NeurIPS conference that covers the whole gamut of machine learning and physics (not just particle physics).
-•	Graph Neural Networks in Particle Physics by J. Shlomi et al (2020). A concise summary of applying graph networks to experimental particle physics - mostly useful if we have time to cover these exciting architectures.
+
+•	Machine Learning and the Physical Sciences. A recent workshop at the NeurIPS conference that covers the whole gamut of machine learning and physics
+
+•	Graph Neural Networks in Particle Physics by J. Shlomi et al (2020). A concise summary of applying graph networks to experimental particle physics
+
 ### Deep learning
-•	Deep Learning for Coders with Fastai and PyTorch by Jeremy Howard and Sylvain Gugger. A highly accessible and practical book that will serve as a guide for these lectures.
-•	Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron. An excellent book that covers both machine learning and deep learning.
+•	Deep Learning for Coders with Fastai and PyTorch by Jeremy Howard and Sylvain Gugger. 
+
+•	Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron. 
 
 
 
